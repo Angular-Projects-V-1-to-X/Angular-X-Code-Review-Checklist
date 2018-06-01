@@ -40,6 +40,6 @@ $5 - 3rd Party Libraries - Security Flaws
 
 #18 - Images, Fonts, Other Static Files - Placed in respective directories and not scattered across.
 
-#19 - TSLINT.JSON to follow Angular Style Guide in order to run SonarQube or Codelyzer. Follow : https://github.com/AngularJS-NG2-NG4-NG5/codelyzer
+#19 - TSLINT.JSON to follow Angular Style Guide in order to run SonarQube or Codelyzer. Follow : https://github.com/Angular-Projects-V-1-to-X/codelyzer
 
 #20 - 
